@@ -1,7 +1,7 @@
 <?php
         $servername = "localhost";
         $username = "root";
-        $password = "ninja_droid123";
+        $password = "ninja";
 
         $connection = mysql_connect($servername, $username, $password);
 
